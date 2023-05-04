@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\bin\Debug\net7.0\GamingCharacters.exe
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\bin\Debug\net7.0\GamingCharacters.deps.json
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\bin\Debug\net7.0\GamingCharacters.runtimeconfig.json
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\bin\Debug\net7.0\GamingCharacters.dll
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\bin\Debug\net7.0\GamingCharacters.pdb
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.AssemblyInfo.cs
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.dll
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\refint\GamingCharacters.dll
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.pdb
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\GamingCharacters.genruntimeconfig.cache
+C:\Users\Admin\Documents\C# Training\Assignments\GamingCharacters\obj\Debug\net7.0\ref\GamingCharacters.dll
